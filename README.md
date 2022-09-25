@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **coreatdev@gmail.com**
 
-- ⚡ Fun fact **pengen jadi anime**
+- ⚡ Fun fact -> **pengen jadi anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
